@@ -21,7 +21,7 @@ const BookList = () => {
   }, []);
 
   return (
-    <Router>
+   
     <div>
       
       <h2>Book List</h2>
@@ -33,7 +33,7 @@ const BookList = () => {
         ))}
       </ul>
     </div>
-    </Router>
+    
   );
 };
 
